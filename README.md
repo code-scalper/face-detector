@@ -1,7 +1,8 @@
 # FACE Detector
 
 ## `face-api.js`
- 사용했음
+ https://github.com/justadudewhohacks/face-api.js/
+ Thank you for such an amazing library!
 
 ## `테스트 방법`
 
