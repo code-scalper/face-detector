@@ -2,7 +2,7 @@
 
 ## `face-api.js`
  https://github.com/justadudewhohacks/face-api.js/
- ~~~
+___
  Thank you for such an amazing library!
 
 ## `테스트 방법`
